@@ -1,0 +1,16 @@
+
+# Podfile
+platform :ios, '10.0'
+
+target 'dudu' do
+  use_frameworks!
+
+  # Pods for YourAppTargetName
+  pod 'SnapKit'
+  pod 'SDWebImage'
+  pod 'AFNetworking'
+  pod 'MMKV'
+ 
+end
+
+

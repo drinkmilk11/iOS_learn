@@ -1,0 +1,6 @@
+framework module Pods_dudu {
+  umbrella header "Pods-dudu-umbrella.h"
+
+  export *
+  module * { export * }
+}
