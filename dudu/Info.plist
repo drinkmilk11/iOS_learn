@@ -11,5 +11,10 @@
 	<array>
 		<string>Nunito-Bold.ttf</string>
 	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>push-to-talk</string>
+		<string>remote-notification</string>
+	</array>
 </dict>
 </plist>

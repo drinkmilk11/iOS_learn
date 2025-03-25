@@ -52,6 +52,11 @@
 		0D8482B02CDA1ADA0032F627 /* EOCSoundPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8482AF2CDA1ADA0032F627 /* EOCSoundPlayer.m */; };
 		0D8482B32CDCB2B60032F627 /* EOCEmployee.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8482B22CDCB2B60032F627 /* EOCEmployee.m */; };
 		0D8482B62CDCBDC30032F627 /* EOCEmployeeDeveloper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8482B52CDCBDC30032F627 /* EOCEmployeeDeveloper.m */; };
+		0D8778392D88419300683C4F /* ModalPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8778382D88419200683C4F /* ModalPresentationController.swift */; };
+		0D87783C2D8968E500683C4F /* CombineTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D87783B2D8968E500683C4F /* CombineTest.swift */; };
+		0D87783E2D89696600683C4F /* CombineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D87783D2D89696600683C4F /* CombineViewController.swift */; };
+		0D8F99EB2D927FA100AFCB9C /* CombineFoundation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D8F99EA2D927F9900AFCB9C /* CombineFoundation.swift */; };
+		0D8F99F02D92C51300AFCB9C /* PlaceInfoModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D8F99EF2D92C51300AFCB9C /* PlaceInfoModel.m */; };
 		0D908EAE2CE2FAA20045FAE9 /* ThreadPoolViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D908EAD2CE2FA4E0045FAE9 /* ThreadPoolViewController.swift */; };
 		0DA04CB42D59BAB8005BE3FF /* CurrentDeviceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DA04CB32D59BAB8005BE3FF /* CurrentDeviceController.m */; };
 		0DA2846A2D26356D007AEF50 /* PopUpTableviewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DA284692D26355E007AEF50 /* PopUpTableviewController.swift */; };
@@ -65,6 +70,7 @@
 		0DBEA25F2CF60631003AFFA0 /* ControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DBEA25E2CF60631003AFFA0 /* ControlViewController.swift */; };
 		0DD6D5C92C9C43200090FEF8 /* haveAChat.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DD6D5C82C9C43200090FEF8 /* haveAChat.m */; };
 		0DDAC0032C70A6D30027E82B /* OnAirGroupLoadingDotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDAC0022C70A6D30027E82B /* OnAirGroupLoadingDotView.swift */; };
+		0DDCCCA82D8C21AB00EA0DC4 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DDCCCA72D8C21AB00EA0DC4 /* ProfileViewController.swift */; };
 		0DF57DAF2C47A7A400C4716E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DF57DAE2C47A7A400C4716E /* FirstViewController.swift */; };
 		0DF57DB12C47A7B000C4716E /* SecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DF57DB02C47A7B000C4716E /* SecondController.swift */; };
 		0DF57DB32C47C38300C4716E /* GradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0DF57DB22C47C38300C4716E /* GradientViewController.swift */; };
@@ -133,6 +139,12 @@
 		0D8482B22CDCB2B60032F627 /* EOCEmployee.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EOCEmployee.m; sourceTree = "<group>"; };
 		0D8482B42CDCBDC30032F627 /* EOCEmployeeDeveloper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EOCEmployeeDeveloper.h; sourceTree = "<group>"; };
 		0D8482B52CDCBDC30032F627 /* EOCEmployeeDeveloper.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EOCEmployeeDeveloper.m; sourceTree = "<group>"; };
+		0D8778382D88419200683C4F /* ModalPresentationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalPresentationController.swift; sourceTree = "<group>"; };
+		0D87783B2D8968E500683C4F /* CombineTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineTest.swift; sourceTree = "<group>"; };
+		0D87783D2D89696600683C4F /* CombineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineViewController.swift; sourceTree = "<group>"; };
+		0D8F99EA2D927F9900AFCB9C /* CombineFoundation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineFoundation.swift; sourceTree = "<group>"; };
+		0D8F99EE2D92C51300AFCB9C /* PlaceInfoModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaceInfoModel.h; sourceTree = "<group>"; };
+		0D8F99EF2D92C51300AFCB9C /* PlaceInfoModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaceInfoModel.m; sourceTree = "<group>"; };
 		0D908EAD2CE2FA4E0045FAE9 /* ThreadPoolViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadPoolViewController.swift; sourceTree = "<group>"; };
 		0DA04CB22D59BAB8005BE3FF /* CurrentDeviceController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CurrentDeviceController.h; sourceTree = "<group>"; };
 		0DA04CB32D59BAB8005BE3FF /* CurrentDeviceController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CurrentDeviceController.m; sourceTree = "<group>"; };
@@ -148,6 +160,7 @@
 		0DD6D5C72C9C43200090FEF8 /* haveAChat.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = haveAChat.h; sourceTree = "<group>"; };
 		0DD6D5C82C9C43200090FEF8 /* haveAChat.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = haveAChat.m; sourceTree = "<group>"; };
 		0DDAC0022C70A6D30027E82B /* OnAirGroupLoadingDotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAirGroupLoadingDotView.swift; sourceTree = "<group>"; };
+		0DDCCCA72D8C21AB00EA0DC4 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		0DF57DAE2C47A7A400C4716E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		0DF57DB02C47A7B000C4716E /* SecondController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondController.swift; sourceTree = "<group>"; };
 		0DF57DB22C47C38300C4716E /* GradientViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientViewController.swift; sourceTree = "<group>"; };
@@ -319,6 +332,10 @@
 		0D61CE512C08C3AB00839000 /* dudu */ = {
 			isa = PBXGroup;
 			children = (
+				0D8F99EC2D92C47D00AFCB9C /* DataBaseManager */,
+				0DDCCCA52D8C215100EA0DC4 /* UIProblem */,
+				0D87783A2D8968B500683C4F /* Combine */,
+				0D8778362D88416D00683C4F /* SwiftUI */,
 				0DA04CB12D59BA5E005BE3FF /* OC */,
 				0D1E91FC2D1A50B1004E7F94 /* SettingProfile */,
 				0D5BB64C2D12BA21002791E6 /* Slider */,
@@ -392,6 +409,49 @@
 			path = "API-learn";
 			sourceTree = "<group>";
 		};
+		0D8778362D88416D00683C4F /* SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				0D8778372D88417900683C4F /* ViewController */,
+			);
+			path = SwiftUI;
+			sourceTree = "<group>";
+		};
+		0D8778372D88417900683C4F /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				0D8778382D88419200683C4F /* ModalPresentationController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		0D87783A2D8968B500683C4F /* Combine */ = {
+			isa = PBXGroup;
+			children = (
+				0D8F99EA2D927F9900AFCB9C /* CombineFoundation.swift */,
+				0D87783B2D8968E500683C4F /* CombineTest.swift */,
+				0D87783D2D89696600683C4F /* CombineViewController.swift */,
+			);
+			path = Combine;
+			sourceTree = "<group>";
+		};
+		0D8F99EC2D92C47D00AFCB9C /* DataBaseManager */ = {
+			isa = PBXGroup;
+			children = (
+				0D8F99ED2D92C49200AFCB9C /* Entities */,
+			);
+			path = DataBaseManager;
+			sourceTree = "<group>";
+		};
+		0D8F99ED2D92C49200AFCB9C /* Entities */ = {
+			isa = PBXGroup;
+			children = (
+				0D8F99EE2D92C51300AFCB9C /* PlaceInfoModel.h */,
+				0D8F99EF2D92C51300AFCB9C /* PlaceInfoModel.m */,
+			);
+			path = Entities;
+			sourceTree = "<group>";
+		};
 		0D908EAF2CE2FAA90045FAE9 /* Thread */ = {
 			isa = PBXGroup;
 			children = (
@@ -461,6 +521,22 @@
 				0DAEA6A92C734D4700316D2F /* OnAirMemberCollectionViewCell.swift */,
 			);
 			path = Problems;
+			sourceTree = "<group>";
+		};
+		0DDCCCA52D8C215100EA0DC4 /* UIProblem */ = {
+			isa = PBXGroup;
+			children = (
+				0DDCCCA62D8C217300EA0DC4 /* Profile */,
+			);
+			path = UIProblem;
+			sourceTree = "<group>";
+		};
+		0DDCCCA62D8C217300EA0DC4 /* Profile */ = {
+			isa = PBXGroup;
+			children = (
+				0DDCCCA72D8C21AB00EA0DC4 /* ProfileViewController.swift */,
+			);
+			path = Profile;
 			sourceTree = "<group>";
 		};
 		0DF57DAD2C47A76500C4716E /* ViewController */ = {
@@ -617,9 +693,11 @@
 				0DF57DBD2C4E632100C4716E /* LocationController.swift in Sources */,
 				0D201FA92C50E0F5007576EB /* TestViewController.swift in Sources */,
 				0DF5FD1E2C45166700821517 /* TodoViewController.swift in Sources */,
+				0D8F99EB2D927FA100AFCB9C /* CombineFoundation.swift in Sources */,
 				0DF57DB52C48AF9700C4716E /* GestureController.swift in Sources */,
 				0D1E92042D1C17CD004E7F94 /* ArcedImageView.swift in Sources */,
 				0DAEA6AA2C734D4700316D2F /* OnAirMemberCollectionViewCell.swift in Sources */,
+				0D87783C2D8968E500683C4F /* CombineTest.swift in Sources */,
 				0D8482B62CDCBDC30032F627 /* EOCEmployeeDeveloper.m in Sources */,
 				0D3B67582C93D8E400075ACB /* UIViewController+topViewController.m in Sources */,
 				0DF57DB92C4A1BD500C4716E /* delegateForController.swift in Sources */,
@@ -631,6 +709,7 @@
 				0DBDAFA32C7982A30024F92E /* duduCollectionViewCell.swift in Sources */,
 				0D201FA72C5097D9007576EB /* JueJingExampleController.swift in Sources */,
 				0DF57DBB2C4E190B00C4716E /* ChaoCodeViewController.swift in Sources */,
+				0D8F99F02D92C51300AFCB9C /* PlaceInfoModel.m in Sources */,
 				0DF57DB32C47C38300C4716E /* GradientViewController.swift in Sources */,
 				0D1E92002D1ACC31004E7F94 /* ExampleViewController.swift in Sources */,
 				0D61CE6B2C08D8A800839000 /* ACMData.swift in Sources */,
@@ -642,6 +721,7 @@
 				0D3B676A2C9A865F00075ACB /* PresenterTemplet.swift in Sources */,
 				0D61CE672C08D36F00839000 /* TableViewCell.swift in Sources */,
 				0D18A0C52C7EE73700EB55A1 /* ZhuZhu.swift in Sources */,
+				0D87783E2D89696600683C4F /* CombineViewController.swift in Sources */,
 				0D3B67622C9A7FFA00075ACB /* Widgetable.swift in Sources */,
 				0D537EC22C5CD15400506347 /* UIButtonColor.swift in Sources */,
 				0DB95D1D2CD1DC2900706F25 /* BuzTooltipBodyView.swift in Sources */,
@@ -652,6 +732,7 @@
 				0DF5FD1A2C45083800821517 /* Checkbox.swift in Sources */,
 				0D61CE572C08C3AB00839000 /* ViewController.swift in Sources */,
 				0D61CE692C08D41500839000 /* AddressTableViewCell.swift in Sources */,
+				0DDCCCA82D8C21AB00EA0DC4 /* ProfileViewController.swift in Sources */,
 				0D3B675B2C95364F00075ACB /* OwnFlowLayout.swift in Sources */,
 				0DF5FD1C2C45160B00821517 /* Todo.swift in Sources */,
 				0DA2846C2D2686F2007AEF50 /* LiveSpaceKnockViewController.swift in Sources */,
@@ -673,6 +754,7 @@
 				0D3B676D2C9AB00800075ACB /* GroupManager.swift in Sources */,
 				0DBEA25F2CF60631003AFFA0 /* ControlViewController.swift in Sources */,
 				0D1E91FE2D1A50D5004E7F94 /* SettingProfileViewController.swift in Sources */,
+				0D8778392D88419300683C4F /* ModalPresentationController.swift in Sources */,
 				0D1EF3CC2D12649E00D0A7FD /* DuduController.swift in Sources */,
 				0D8482B32CDCB2B60032F627 /* EOCEmployee.m in Sources */,
 				0DF57DB12C47A7B000C4716E /* SecondController.swift in Sources */,
@@ -820,11 +902,13 @@
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = dudu/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = ddddd;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -855,11 +939,13 @@
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = dudu/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = ddddd;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
